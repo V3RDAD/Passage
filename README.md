@@ -25,3 +25,4 @@ Picture provided is only for education purposes.
 
 
 You can finally die now knowing that OP is no longer a fag.
+PS: Took me two days. As opposed to what? is it 6 years now since cnode4.0? :P
