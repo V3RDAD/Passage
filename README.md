@@ -2,10 +2,9 @@
 It is an router addon for private domain and anonymous oriented networks.
 In this new version you will bre able to host on domains that are not limited to just .i2p or b32.i2p.
 
-Right now most of it is in work in progress, however if you want an early peak,
-Dm me, or if you want to join already created networks. 
+Right now most of it is {WIP}
 
-t.me/@V3RDAD 
+As of now you won't be able to access normal .i2p domains.
 
-PS:I might not respond.
+##{WIP}
 ![image](https://user-images.githubusercontent.com/50222317/233504525-df186337-fc50-4331-8906-826ec1e81900.png)
