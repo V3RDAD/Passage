@@ -12,6 +12,9 @@ So far, you won't be able to host, connect to normal .i2p domains, but these two
 |_slink
 ```
 
+(you may of course alter them into whatever you'd like as I left out the source code for you)
+
+Download https://gitlab.com/i2pplus/I2P.Plus/, insert it there and build it with ant.apache.org 
 ## How to do it
 
 Simply drag the /lib/i2ptunnel.jar into I2P+ version 1.9.0 
