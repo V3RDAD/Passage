@@ -6,5 +6,5 @@ Right now most of it is {WIP}
 
 As of now you won't be able to access normal .i2p domains.
 
-##{WIP}
+## {WIP}
 ![image](https://user-images.githubusercontent.com/50222317/233504525-df186337-fc50-4331-8906-826ec1e81900.png)
