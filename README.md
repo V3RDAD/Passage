@@ -4,11 +4,18 @@ It is an router addon for private domain and anonymous oriented networks.
 
 In this new version you will be able to host on domains that are not limited to just .i2p or b32.i2p.
 
-As of now you won't be able to access normal .i2p domains.
+So far, you won't be able to host, connect to normal .i2p domains, but these two below.
+
+```
+>NETWORK_TREE
+|_s
+|_slink
+```
 
 ## How to do it
 
 Simply drag the /lib/i2ptunnel.jar into I2P+ version 1.9.0 
+
 
 
 ## {WIP}
