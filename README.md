@@ -29,6 +29,5 @@ Picture provided is only for education purposes.
 
 You can finally die now knowing that OP is no longer a fag.
 
-PS: Took me two days.
 
-    As opposed to what? Is it 6 years now since cnode4.0 and DFN 2.0 got released? :P
+Is it 6 years now since cnode4.0 and DFN 2.0 got released? :P
