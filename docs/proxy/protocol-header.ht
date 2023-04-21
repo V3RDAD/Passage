@@ -1,0 +1,34 @@
+HTTP/1.1 403 Bad Protocol
+Content-Type: text/html; charset=UTF-8
+Connection: close
+Proxy-Connection: close
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Referrer-Policy: no-referrer
+Content-Security-Policy: default-src 'none'; style-src 'self' 'unsafe-inline' http://proxy.i2p; form-action 'self' http://proxy.i2p; frame-ancestors 'self' http://127.0.0.1:7657/; img-src http://proxy.i2p data:; font-src http://proxy.i2p
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>_("Warning: Non-HTTP Protocol")</title>
+<link href="http://proxy.i2p/themes/console/default/global.css" rel="stylesheet" type="text/css">
+<link href="http://proxy.i2p/themes/console/default/proxy.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="http://proxy.i2p/themes/console/default/images/favicon.svg">
+</head>
+<body id="proxy_error">
+<div class="logo">
+<a href="http://127.0.0.1:7657/" title="_("Router Console")"><img src="http://proxy.i2p/themes/console/default/images/i2plogo.png" alt="_("I2P Router Console")" border="0"></a>
+<hr>
+<a href="http://127.0.0.1:7657/dns">_("Addressbook")</a>
+<a href="http://127.0.0.1:7657/config">_("Configuration")</a>
+<a href="http://127.0.0.1:7657/help/">_("Help")</a>
+</div>
+<div class="warning" id="warning">
+<h3>_("Warning: Non-HTTP Protocol")</h3>
+<p>
+_("The request uses a bad protocol.")
+_("The I2P HTTP Proxy supports HTTP and HTTPS requests only.")
+_("Other protocols such as FTP are not allowed.")
+</p>
+</div>
