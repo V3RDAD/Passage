@@ -14,6 +14,9 @@ You are now able to host and connect to added domains:
 |_shweb
 |_2cb
 |_free
+
+Furthermore addresses with UTF-8 characters will no longer appear malformed and therefore,
+you are able to use special characters in URI links.
 ```
 
 (you may of course alter them into whatever you'd like as I left out the source code for you)
