@@ -7,12 +7,15 @@ You can host on domains that are not limited to; .i2p or b32.i2p.
 You are now able to host and connect to added domains:
 
 >I2P++
+\fully suppoerted
+|_i2p
+|_i2cb
+\only http proxy supported
+|_free
 |_s
 |_slink
 |_sweb
 |_shweb
-|_2cb
-|_free
 
 ```
 
