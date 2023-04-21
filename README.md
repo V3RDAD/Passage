@@ -4,7 +4,7 @@ This is an addon for the i2p+ router.
 
 In this new version you will be able to host on domains that are not limited to just .i2p or b32.i2p.
 
-So far, you won't be able to host, connect to normal .i2p domains, but these two below.
+You are now able to connect to normal .i2p domains, and these two below.
 
 ```
 >NETWORK_TREE
