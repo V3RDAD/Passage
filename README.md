@@ -1,7 +1,6 @@
 ![image](https://user-images.githubusercontent.com/50222317/233506441-3152b56b-9e1f-4d43-8834-c8e9b55ca5f1.png)
 
 This is an addon for the i2p+ router.
-## Improvements
 ```
 New Domains
 You can host on domains that are not limited to; .i2p or b32.i2p.
@@ -15,8 +14,6 @@ You are now able to host and connect to added domains:
 |_2cb
 |_free
 
-Furthermore addresses with UTF-8 characters will no longer appear malformed and therefore,
-you are able to use special characters in URI links.
 ```
 
 (you may of course alter them into whatever you'd like as I left out the source code for you)
