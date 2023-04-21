@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/50222317/233506441-3152b56b-9e1f-4d43-8834-c8e9b55ca5f1.png)
 
-It is an router addon for private domain and anonymous oriented networks.
+This is an addon for the i2p+ router.
 
 In this new version you will be able to host on domains that are not limited to just .i2p or b32.i2p.
 
