@@ -6,13 +6,17 @@ In this new version you will be able to host on domains that are not limited to 
 
 You are now able to connect to normal .i2p domains, and these below.
 
+## New Domains
 ```
->NETWORK_TREE
+>I2P++
 |_s
 |_slink
 |_sweb
 |_shweb
+
+|_2cb
 |_free
+  |_
 ```
 
 (you may of course alter them into whatever you'd like as I left out the source code for you)
