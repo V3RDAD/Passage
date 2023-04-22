@@ -12,11 +12,14 @@ You are now able to host and connect to added domains:
 |_i2p
 |_i2cb
 \only http proxy supported
-|_free
 |_s
+|_sh
 |_slink
 |_sweb
 |_shweb
+|_murd
+
+|_free
 
 ```
 
