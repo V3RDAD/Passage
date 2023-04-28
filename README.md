@@ -28,5 +28,5 @@ You are now able to host and connect to added domains:
 Download https://gitlab.com/i2pplus/I2P.Plus/, insert it there and build it with https://ant.apache.org/
 ## How to do it
 
-Simply drag the /lib/i2ptunnel.jar,/docs/ files into I2P+ version 1.9.0  https://web.archive.org/web/20221105001551/https://i2pplus.github.io/
+Simply drag the /lib/i2ptunnel.jar,/docs/ files into I2P+ installation folder.
 
