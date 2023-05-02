@@ -3,16 +3,6 @@
 This is an addon for the i2p+ router,
 You can host on domains that are not limited to; .i2p or b32.i2p.
 
-I drew inspiration from the russian iceberg image;
-```
-LEVEL B:
-
-"The So-Called Pass is an extension for the browser called the [....] . Here you can draw such an analogy - from a regular browser you can get to the regular Internet, and
-there you can find Tor, and from Tor you can get into the darknet [....] To find it there [....] No, not a browser [....] But the pass is the next important point.
-It operates on the principle of garlic routing."
-```
-And so I've created my own "Pass"
-
 ## New Domains
 ```
 These domains will be recognized as the internal I2P network and therefore,
