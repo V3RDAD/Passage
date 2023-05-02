@@ -17,7 +17,7 @@ And so I've created my own "Pass"
 ```
 These domains will be recognized as the internal I2P network and therefore,
 you can add them to your addressbook and assign them Base-64, Base-32 links.
-However they are nothing but fancy cosmetics to add to your website mirror.
+However they are nothing but fancy cosmetics to add to your website as a mirror.
 
 \fully supported
 |_i2p
