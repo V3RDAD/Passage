@@ -30,6 +30,14 @@ However they are nothing but fancy cosmetics to add to your website as a mirror.
 Download https://gitlab.com/i2pplus/I2P.Plus/, insert it there and build it with https://ant.apache.org/
 
 ## Communities
+"The So-Called Pass is a browser extension for the Tor browser. Here you can draw such an analogy - from a regular browser you can get to the regular Internet, and there you can find Tor, and from Tor you can get into the darknet ... To find it there ... No, not a browser .. But the pass is the next important point.
+It operates on the principle of garlic routing. And it is a mechanism for accessing an even more secure and anonymous network."
+- russian deepweb iceberg.
+
+I will attach a map of the passes here.
+![Перевал](https://github.com/V3RDAD/i3p/assets/50222317/92df554a-0680-4ab5-aa68-8367fe0ce4df)
+While I do not agree with many iceberg images, this modification does count as a "passage", to places below.
+
 Contact network owners for ?i2paddresshelper destination,
 contact me to gain accesss to the root.
 
