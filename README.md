@@ -35,15 +35,11 @@ Simply drag the /lib/i2ptunnel.jar into I2P+ installation folder.
 Contact network owners for ?i2paddresshelper destination.
 Contact me to gain accesss to the root.
 
-
 ```
-Gateways
-
 $ROOT
 $NET, $OWNER.
 
-{1%}
-/Red_sky_net()
+{1%}/Red_sky_net()
 |___[pass()]
     |___[skyturnedblood()]
     |_________[free(anonymous)]
@@ -53,6 +49,7 @@ $NET, $OWNER.
     |
     |_________[WIP]
     
-{99%}
+{99%}/Notice: Undefined variable: $root on line 12
 |_['?']
+
 ```
