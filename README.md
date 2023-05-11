@@ -31,7 +31,6 @@ Download https://gitlab.com/i2pplus/I2P.Plus/, insert it there and build it with
 
 ## Communities
 Contact network owners for ?i2paddresshelper destination,
-
 contact me to gain accesss to the root.
 
 ```
