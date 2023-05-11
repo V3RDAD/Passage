@@ -31,3 +31,28 @@ Download https://gitlab.com/i2pplus/I2P.Plus/, insert it there and build it with
 ## How to do it
 Simply drag the /lib/i2ptunnel.jar into I2P+ installation folder.
 
+## Communities
+Contact network owners for ?i2paddresshelper destination.
+Contact me to gain accesss to the root.
+
+
+```
+Gateways
+
+$ROOT
+$NET, $OWNER.
+
+{1%}
+/Red_sky_net()
+|___[pass()]
+    |___[skyturnedblood()]
+    |_________[free(anonymous)]
+    |_________[macs network(@XYN0N)]
+    |         |
+    |         |________[chat group "A"]
+    |
+    |_________[WIP]
+    
+{99%}
+|_['?']
+```
