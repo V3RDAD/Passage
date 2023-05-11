@@ -30,8 +30,9 @@ However they are nothing but fancy cosmetics to add to your website as a mirror.
 Download https://gitlab.com/i2pplus/I2P.Plus/, insert it there and build it with https://ant.apache.org/
 
 ## Communities
-Contact network owners for ?i2paddresshelper destination.
-Contact me to gain accesss to the root.
+Contact network owners for ?i2paddresshelper destination,
+
+contact me to gain accesss to the root.
 
 ```
 $ROOT
