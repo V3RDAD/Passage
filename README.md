@@ -11,16 +11,15 @@ However they are nothing but fancy cosmetics to add to your website as a mirror.
 
 \fully supported
 |_i2p
-|_i2cb
+|_i3p
 \only http proxy supported
 |_s
 |_sh
-|_sl(not included)
+|_sl
 |_slink
 |_sweb
 |_shweb
 |_murd
-
 |_free
 
 ```
