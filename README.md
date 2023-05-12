@@ -34,7 +34,7 @@ Download https://gitlab.com/i2pplus/I2P.Plus/, insert it there and build it with
 It operates on the principle of garlic routing. And it is a mechanism for accessing an even more secure and anonymous network." - russian deepweb iceberg.
 
 I will attach a map of the passes here.
-![Перевал](https://github.com/V3RDAD/i3p/assets/50222317/92df554a-0680-4ab5-aa68-8367fe0ce4df)
+![image](https://github.com/V3RDAD/i3p/assets/50222317/0c4142a5-c623-483b-a4b8-6316add70df9)
 While I do not agree with many iceberg images, this modification does count as a "passage", to places below.
 
 Contact network owners for ?i2paddresshelper destination,
