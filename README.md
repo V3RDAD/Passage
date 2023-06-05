@@ -22,11 +22,6 @@ However they are nothing but fancy cosmetics to add to your website as a mirror.
 |_murd
 |_free
 
-```
-
-(you may of course alter them into whatever you'd like as I left out the source code for you)
-
-Download https://gitlab.com/i2pplus/I2P.Plus/, insert it there and build it with https://ant.apache.org/
 
 ## How to do it
-Simply drag the /lib/i2ptunnel.jar into I2P+ installation folder.
+Simply drag the i2ptunnel.jar into /lib/ of the I2P+ installation folder.
